@@ -2,6 +2,7 @@
 An application that is essentially a todo manager written in Java was instrumented using Open Telemetry and then visualized using Zipkin on Windows 10. This was all done using Visual Studio Code and the commands were ran on a Bash terminal on the root directory of the application.
 Bash terminal results when the application was ran along with open telemetry:
 ![image](https://user-images.githubusercontent.com/80646420/227828010-56c75195-70d4-4be6-821f-3807aaca0aa0.png)
+
 Bash terminal when Zipkin was ran:
 ![image](https://user-images.githubusercontent.com/80646420/227828551-dca6518e-6e72-4bfb-8c4b-c29eec9ca58e.png)
 
